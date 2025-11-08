@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amplitude-tracking-demo/static/css/main.fd5f3c8e.css",
+    "main.js": "/amplitude-tracking-demo/static/js/main.01d56e63.js",
+    "static/js/453.1eec49d4.chunk.js": "/amplitude-tracking-demo/static/js/453.1eec49d4.chunk.js",
+    "static/media/buddha.png": "/amplitude-tracking-demo/static/media/buddha.b72b637e1ae2aeb7e27a.png",
+    "index.html": "/amplitude-tracking-demo/index.html",
+    "main.fd5f3c8e.css.map": "/amplitude-tracking-demo/static/css/main.fd5f3c8e.css.map",
+    "main.01d56e63.js.map": "/amplitude-tracking-demo/static/js/main.01d56e63.js.map",
+    "453.1eec49d4.chunk.js.map": "/amplitude-tracking-demo/static/js/453.1eec49d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5f3c8e.css",
+    "static/js/main.01d56e63.js"
+  ]
+}
